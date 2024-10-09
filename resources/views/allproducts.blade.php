@@ -17,7 +17,7 @@
            
         </tr>
       
-        
+         
         @php $count = 1; @endphp
       @foreach ($data as $values) 
           <tr>
